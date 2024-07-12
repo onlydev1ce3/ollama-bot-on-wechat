@@ -1,2 +1,2 @@
 # ollama-bot-on-wechat
-本地部署ollama接入itachat
+ollama部署本地模型，接入微信
